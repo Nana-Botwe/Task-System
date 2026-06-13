@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered checkmark shield silhouette representing secure cooperative tasks -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,22 C44,22 34,26 31,34 C31,48 40,68 54,86 C68,68 77,48 77,34 C74,26 64,22 54,22 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,56 L40,48 L36,52 L48,64 L72,40 L68,36 Z" />
+</vector>

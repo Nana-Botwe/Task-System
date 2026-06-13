@@ -1,0 +1,6 @@
+{
+  "name": "CollabTask",
+  "description": "Collaborative task manager with role-based access control, analytics dashboard, integrated calendar, notifications, live sync simulator, and exporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
